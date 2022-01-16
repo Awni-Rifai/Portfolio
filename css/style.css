@@ -869,3 +869,9 @@ textarea.form-control {
 }
 /*-----------------------------------------Map --------------------*/
 #map { height: 300px; }
+
+.banner__img{
+  border-radius: 50%;
+  height: 20rem;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+}
